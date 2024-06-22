@@ -9,7 +9,7 @@ exit /b
 <html>
 <style>
  html, body{width: 100%;height: 100%;margin: 0px;}
- #demo {background: yellow;width: 100%;height: 100%;margin: 0;}
+ #demo {background: red;width: 100%;height: 100%;margin: 0;}
 </style>
 
 <script>
