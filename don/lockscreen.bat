@@ -37,5 +37,3 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
 </div>
 </body>
 </html>
-
-exit
